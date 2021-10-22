@@ -4,9 +4,14 @@
 
 # About : Akshat
 
-### Name  : Akshar Kumar
-### Age   : 13
-### Class : 7th
+<h2 align="center"><b>Name : Akshat (Akki ThePro)</b></h2>
+<br>
+
+<h2 align="center"><b>Age : 13</b></h2>
+<br>
+
+<h2 align="center"><b>Class : 7th</b></h2>
+<br>
 
 ## I'm A Logo maker, As well as a Good Coder..
 ## I'm Currently Learning *Python*..
