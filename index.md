@@ -4,9 +4,9 @@
 
 # About : Aᴋsᕼᴀᴛ
 
-- Name  : Aᴋsᕼᴀᴛ Kᴜᴍᴀʀ
-- Age   : 13
-- Class : 7th
+- Name: Aᴋsᕼᴀᴛ Kᴜᴍᴀʀ
+- Age: 13
+- Class: 7th
 
 - I'm A Logo maker, As well as a Good Coder..
 - I'm Learning *Python*..
