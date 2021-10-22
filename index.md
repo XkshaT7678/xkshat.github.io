@@ -4,9 +4,9 @@
 
 # About : Akshat
 
-- Name  : Akshar Kumar
-- Age   : 13
-- Class : 7th
+### Name  : Akshar Kumar
+### Age   : 13
+### Class : 7th
 
-- I'm A Logo maker, As well as a Good Coder..
-- I'm Learning *Python*..
+## I'm A Logo maker, As well as a Good Coder..
+## I'm Currently Learning *Python*..
