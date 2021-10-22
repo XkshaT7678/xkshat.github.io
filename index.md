@@ -5,11 +5,8 @@
 About : Akshat
 
 <h2 align="left"><b>Name : Akshat (Akki ThePro)</b></h2>
-<br>
 <h2 align="left"><b>Age : 13</b></h2>
-<br>
 <h2 align="left"><b>Class : 7th</b></h2>
-<br>
 
 ## I'm A Logo maker, As well as a Good Coder..
 ## I'm Currently Learning *Python*..
